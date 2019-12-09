@@ -1,0 +1,2 @@
+# shadowsocksR-setup
+centos7
