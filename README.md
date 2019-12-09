@@ -2,13 +2,15 @@
 
 _centos7_
 
-區域：亞洲地區
+_區域：亞洲地區_
 
-RAM：1.7G
+_RAM：1.7G_
 
-Telegram:https://t.me/xwring
+_Telegram:https://t.me/xwring_
 
-聯繫郵箱：info@chryax.com.tw
+_聯繫郵箱：info@chryax.com.tw_
 
-Line:chryax
+_Line:chryax_
+
+***
 
