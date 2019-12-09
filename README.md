@@ -1,4 +1,4 @@
-本文採用以下機型：
+    本文採用以下機型：
 
 機型：centos7
 
@@ -11,3 +11,4 @@ Telegram:https://t.me/xwring
 聯繫郵箱：info@chryax.com.tw
 
 Line:chryax
+
