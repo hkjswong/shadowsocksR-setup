@@ -10,7 +10,7 @@
 ### 進入ssh ###
 
 * sudo-i :point_left:
-* 安裝wget :point_left:
+* 安裝wget(見FAQ） :point_left:
 * 輸入一鍵腳本 :point_left:
 
 腳本：wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
@@ -23,7 +23,25 @@
 
 ### 操作軟體 :bell:
 
-- windows：https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
-- Android（這個版本禁止了截圖功能）：https://github.com/shadowsocksrr/shadowsocksr-android/releases
-- ios: 下載shadowrocket 下載可以聯繫:email: info@chryax.com.tw
-- MacOs:
+- windows：https://github.com/shadowsocksrr/shadowsocksr-csharp/releases :point_left:
+- Android（這個版本禁止了截圖功能）：https://github.com/shadowsocksrr/shadowsocksr-android/releases :point_left:
+- ios: 下載shadowrocket :email: info@chryax.com.tw :point_left:
+- MacOs:https://github.com/qinyuhang/ShadowsocksX-NG-R/releases  :point_left:
+
+-----
+
+### wget安裝 :bell:
+
+* centos：yum install -y wget :point_left:
+* Linux：apt-get install wget :point_left:
+
+-----
+
+### 聯繫方式 :bell:
+
+- Telegram：https://t.me/xwring :point_left:
+- Line：chryax :point_left:
+- :email: info@chryax.com.tw :point_left:
+- Facebook粉專：https://www.facebook.com/jsrwon :point_left:
+- 個人blog：https://vschk.wordpress.com/ :point_left:
+
