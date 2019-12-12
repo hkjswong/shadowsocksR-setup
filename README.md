@@ -10,7 +10,7 @@
 ### 進入ssh ###
 
 * sudo-i :point_left:
-* 安裝wget(見FAQ） :point_left:
+* 安裝wget(見下文） :point_left:
 * 輸入一鍵腳本 :point_left:
 
 腳本：wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
